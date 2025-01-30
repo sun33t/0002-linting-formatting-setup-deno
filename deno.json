@@ -5,6 +5,7 @@
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1",
+    "gitmoji-cli": "npm:gitmoji-cli@^9.5.0",
     "lint-staged": "npm:lint-staged@^15.4.3"
   }
 }
