@@ -1,12 +1,19 @@
-# linting-formatting-setup-deno
+<div align="center">
+  <a href="https://www.suneet.codes/articles/linting-formatting-setup-deno">
+    <picture>
+      <img alt="Next.js logo" src="https://res.cloudinary.com/suneet-codes/image/upload/v1738312771/suneet-codes/articles/linting-formatting-deno_z91i9v.jpg" height="300">
+    </picture>
+  </a>
+  <h1 >Node Projects: Linting + Formatting + Conventional Commits</h1>
+</div>
 
-This repo demonstrates a toolchain for using git hooks to automate the linting
+This repo demonstrates a workflow for using git hooks to automate the linting
 and formatting of files and for the standardization of commit messages within a
 deno project.
 
 # Documentation
 
-The toolchain is documented in
+The workflow is documented in
 [this article](https://suneet.codes/articles/linting-formatting-setup-deno).
 
 ## Usage
